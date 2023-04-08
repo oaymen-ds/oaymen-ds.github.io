@@ -12,14 +12,11 @@
 <img src="images/project_2.jpeg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Data Science
 
 - [Corona Stats Dashboard](https://synapse-analytics.shinyapps.io/CoronaDash/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
@@ -37,6 +34,7 @@
  - R: Tidyverse, Shiny, ggplot
  - GCP: Pubsub, Cloud-run, Cloud scheduler, BigQuery
  - SQL, Git, Docker, Kubeflow, Kubernetes, Airflow, Pyspark
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
