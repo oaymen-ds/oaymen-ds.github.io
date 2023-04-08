@@ -9,7 +9,7 @@
 
 ---
 [Text Classification]([/pdf/sample_presentation.pdf](https://www.kaggle.com/omarayman/different-approaches-for-text-classification))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project_2.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
