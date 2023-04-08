@@ -23,9 +23,11 @@
 
 ---
 
-
-
-
+### Skills
+ - PYTHON: scikit-learn, Plotly, Pandas, Pytorch, Keras, Streamlit, FastAPI, Redis, Django, Pyspark, NLTK, Spacy, seaborn, matplotlib 
+ - R: Tidyverse, Shiny, ggplot
+ - GCP: Pubsub, Cloud-run, Cloud scheduler, BigQuery
+ - EXPERIENCED WITH: SQL, Git, Docker, Kubeflow, Kubernetes, Airflow, Pyspark
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
