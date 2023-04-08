@@ -19,7 +19,7 @@
 
 ### Data Science
 
-- [Corona Stats Dashboard](https://synapse-analytics.shinyapps.io/CoronaDash/))
+- [Corona Stats Dashboard](https://synapse-analytics.shinyapps.io/CoronaDash/)
 
 ---
 
