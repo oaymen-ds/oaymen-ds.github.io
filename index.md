@@ -21,13 +21,12 @@
 
 - [Corona Stats Dashboard](https://synapse-analytics.shinyapps.io/CoronaDash/)
 
----
 
 ---
 ### Publications
 - [Text classification approaches](https://medium.com/@omaraymanomar/text-classification-approaches-with-code-snippets-1ad1ab03bcdb)
 - [The Frequentist vs Bayesian Debate](https://medium.com/datadriveninvestor/chapter-5-machine-learning-basics-part2-69721bf70c7f)
-- [An intro to semantic segmentation] (https://medium.com/analytics-vidhya/semantic-segmentation-420b9671f28b)
+- [An intro to semantic segmentation](https://medium.com/analytics-vidhya/semantic-segmentation-420b9671f28b)
 - [Docker in action book summary](https://omaraymanomar.medium.com/docker-in-action-book-summary-ch1-ch4-83005b1d69af)
 
 
