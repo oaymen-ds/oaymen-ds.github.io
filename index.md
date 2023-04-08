@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Deep Learning
 
-[Emotion recognition](https://github.com/oaymen-ds/Emotion-recognition)
+[Emotion Recognition](https://github.com/oaymen-ds/Emotion-recognition)
 <img src="images/project_1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Text Classification]([/pdf/sample_presentation.pdf](https://www.kaggle.com/omarayman/different-approaches-for-text-classification))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,13 +17,9 @@
 
 ---
 
-### Category Name 2
+### Data Science
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Corona Stats Dashboard](https://synapse-analytics.shinyapps.io/CoronaDash/))
 
 ---
 
